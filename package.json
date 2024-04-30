@@ -11,5 +11,6 @@
     "keywords": [
         "unity",
         "Tools"
-    ]
+    ],
+    "type": "module"
 }
