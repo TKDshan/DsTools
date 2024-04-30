@@ -1,6 +1,6 @@
 # DsTools
 Unity Editor小工具  
-unity git url : https://github.com/TKDshan/DsTools.git?path=src  
+unity git url : https://github.com/TKDshan/DsTools.git  
 ## Table Editor  
 使用方式 在Project窗口 选中TextAsset文件右键DsTable/Open Table打开  
 ## TileMapEditor  
