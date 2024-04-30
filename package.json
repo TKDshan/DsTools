@@ -1,0 +1,15 @@
+{
+    "name": "com.tkds.DsTools",
+    "version": "1.0.0",
+    "displayName": "DsTools",
+    "description": "unity Tools",
+    "unity": "2021.3.21",
+    "author": {
+        "name": "TKDS",
+        "email": "1329361170@qq.com"
+    },
+    "keywords": [
+        "unity",
+        "Tools"
+    ]
+}
