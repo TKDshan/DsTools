@@ -7,7 +7,7 @@ using UnityEngine;
 namespace DsTools
 {
 #if UNITY_EDITOR
-    public class InputDialog : EditorWindow
+    internal class InputDialog : EditorWindow
     {
         private static Action<int, int, bool> _callback;
 

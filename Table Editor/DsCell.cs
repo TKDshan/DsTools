@@ -1,6 +1,6 @@
 namespace DsTools.Table
 {
-    public struct DsCell
+    internal struct DsCell
     {
         public int row;
 
